@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyGenerator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestDao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestInterface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestPOJO" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TestWeb" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

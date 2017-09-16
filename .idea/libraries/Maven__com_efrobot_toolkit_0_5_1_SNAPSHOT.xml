@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.efrobot:toolkit:0.5.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/efrobot/toolkit/0.5.1-SNAPSHOT/toolkit-0.5.1-20161216.063915-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/efrobot/toolkit/0.5.1-SNAPSHOT/toolkit-0.5.1-20161216.063915-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/efrobot/toolkit/0.5.1-SNAPSHOT/toolkit-0.5.1-20161216.063915-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
